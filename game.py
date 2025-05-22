@@ -1,0 +1,5 @@
+import pyxel  
+
+
+
+print("ok")
